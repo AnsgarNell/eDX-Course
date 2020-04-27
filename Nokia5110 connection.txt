@@ -1,0 +1,9 @@
+LaunchPad          Nokia 5110
+PA7 Reset          RST
+PA3 SSI0Fss        CE
+PA6 Data/Command   DC
+PA5 SSI0Tx         Din
+PA2 SSI0Clk        Clk
+3.3V power         Vcc
+not connected      back light BL (or 200-470 Ohm resistor)
+Ground             Gnd
